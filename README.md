@@ -3,7 +3,6 @@
 Hey there! Welcome to my awesome portfolio project! This is where I showcase my coding skills and projects developed using HTML, CSS, and JavaScript. Plus, I've spiced it up with some fancy animations thanks to the AOS (Animate On Scroll) library. 😎
 
 ## Table of Contents 📜
-- [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
